@@ -1,10 +1,10 @@
-<p align="center"><a href="https://enbizcard.vercel.app/"><img src="assets/images/GitHub.png" width="100%"></a></p>
+<p align="center"><a href="https://slashcard.vercel.app/"><img src="assets/images/GitHub.png" width="100%"></a></p>
 
-<h1 align="center">An Open-Source Digital Business Card Generator</h1>
+<h1 align="center">Your Personalized Business Identity Container</h1>
 <!-- <h3 align="center">Your Website Can Host Your Digital Business Cards for FREE!</h3> -->
 <h3 align="center">Why Pay When Your Digital Business Cards Can Be Hosted on Your Website for Free!</h3>
-<p align="center">EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.</p>
-<h3 align="center"><a href="https://enbizcard.vercel.app">Open App</a> | <a href="https://enbizcard.vercel.app">View demo</a></h3>
+<p align="center">SlashCard helps you connect all your personal business information with just ONE TAP.</p>
+<h3 align="center"><a href="https://slashcard.vercel.app">Open App</a> | <a href="https://slashcard.online/demo">View demo</a></h3>
 
 ---
 
