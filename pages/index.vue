@@ -17,7 +17,7 @@
       >
         <div
           class="logo w-16 m-4"
-          v-html="require(`~/assets/icons/sclogo2.svg?include`)"
+          v-html="require(`~/assets/icons/sclogo.svg?include`)"
         ></div>
         <button
           class="p-3 mx-4 font-extrabold rounded tracking-wide focus:outline-none select-none"
@@ -54,7 +54,7 @@
       <div class="flex items-start justify-between pt-8">
         <div
           class="logo w-24"
-          v-html="require(`~/assets/icons/sclogo2.svg?include`)"
+          v-html="require(`~/assets/icons/sclogo.svg?include`)"
           title="SlashCard - Your Personalized Business Identity Container"
         ></div>
         <a
