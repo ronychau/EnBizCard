@@ -21,7 +21,7 @@
         ></div>
         <button
           class="p-3 mx-4 font-extrabold rounded tracking-wide focus:outline-none select-none"
-          :class="showPreview ? 'bg-gray-700' : 'bg-green-600'"
+          :class="showPreview ? 'bg-gray-700' : 'bg-yellow-400'"
           @click="!opening && togglePreview()"
         >
           {{ showPreview ? 'Close preview' : 'Open preview' }}
@@ -82,7 +82,7 @@
       </ul>
       <div class="mt-4 flex flex-wrap items-center">
         <button
-          class="font-extrabold leading-none text-lg tracking-wide select-none flex-shrink-0 p-5 mt-2 mr-2 text-white bg-green-600 rounded hover:bg-green-500 focus:bg-green-500 transition-colors duration-200 focus:outline-none"
+          class="font-extrabold leading-none text-lg tracking-wide select-none flex-shrink-0 p-5 mt-2 mr-2 text-white bg-yellow-400 rounded hover:bg-yellow-300 focus:bg-yellow-400 transition-colors duration-200 focus:outline-none"
           @click="create()"
         >
           Create your own
@@ -98,7 +98,7 @@
         Read the
         <NuxtLink
           to="/hosting-guide"
-          class="cursor-pointer underline font-extrabold text-green-600 hover:text-green-500 focus:text-green-500 transition-colors duration-200"
+          class="cursor-pointer underline font-extrabold text-yellow-400 hover:text-yellow-300 focus:text-yellow-300 transition-colors duration-200"
           >Hosting Guide</NuxtLink
         >
       </p>
@@ -175,7 +175,7 @@
               >Public key<span
                 v-if="genInfo.key"
                 class="mr-4"
-                :class="pubKeyIsValid ? 'text-green-600' : 'text-orange-600'"
+                :class="pubKeyIsValid ? 'text-yellow-400' : 'text-orange-600'"
                 >{{ pubKeyIsValid ? '' : 'Invalid schema' }}</span
               >
             </label>
@@ -194,7 +194,7 @@
                 v-if="genInfo.fp"
                 class="mr-4"
                 :class="
-                  fingerprintIsValid ? 'text-green-600' : 'text-orange-600'
+                  fingerprintIsValid ? 'text-yellow-400' : 'text-orange-600'
                 "
                 >{{ fingerprintIsValid ? '' : 'Invalid fingerprint' }}</span
               >
@@ -344,7 +344,7 @@
               <div
                 class="relative group inline-block w-24 h-12 mr-3 align-middle select-none transition duration-200 ease-in bg-gray-700 rounded hover:bg-gray-600 focus:bg-gray-600 cursor-pointer focus:outline-none"
                 :class="{
-                  'bg-green-600 hover:bg-green-500 focus:bg-green-500': footerCredit,
+                  'bg-yellow-400 hover:bg-yellow-300 focus:bg-yellow-300': footerCredit,
                 }"
                 tabindex="0"
                 @click="footerCredit = !footerCredit"
@@ -374,7 +374,7 @@
           <h2 class="font-extrabold text-2xl">Themes (coming soon)</h2>
           <div class="stepC mt-3 flex flex-wrap">
             <button
-              class="w-12 h-12 rounded mt-3 mr-3 bg-green-600 hover:bg-green-500 focus:bg-green-500 font-extrabold focus:outline-none transition-colors duration-200"
+              class="w-12 h-12 rounded mt-3 mr-3 bg-yellow-400 hover:bg-yellow-300 focus:bg-yellow-300 font-extrabold focus:outline-none transition-colors duration-200"
             >
               T1
             </button>
