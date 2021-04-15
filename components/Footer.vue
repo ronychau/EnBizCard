@@ -3,14 +3,14 @@
     <div class="flex flex-col justify-center items-center">
       <div
         class="logo w-12"
-        v-html="require(`~/assets/icons/sclogo.svg?include`)"
+        v-html="require(`~/assets/icons/sclogo2.svg?include`)"
       ></div>
       <!-- <p class="font-extrabold leading-tight">
         Digital&nbsp;Business&nbsp;Card
         <br />
         Generator
       </p> -->
-      <p class="font-extrabold text-xl mt-2 leading-tight">EnBizCard</p>
+      <p class="font-extrabold text-xl mt-2 leading-tight">SlashCard</p>
     </div>
     <p class="mt-6 text-center text-gray-400">
       Made with by
