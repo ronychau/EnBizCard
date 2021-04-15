@@ -1,4 +1,4 @@
-<p align="center"><a href="https://slashcard.vercel.app/"><img src="assets/images/GitHub.png" width="100%"></a></p>
+<p align="center"><a href="https://slashcard.vercel.app/"><img src="assets/images/SlashCard.png" width="100%"></a></p>
 
 <h1 align="center">Your Personalized Business Identity Container</h1>
 <!-- <h3 align="center">Your Website Can Host Your Digital Business Cards for FREE!</h3> -->
