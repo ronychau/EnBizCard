@@ -17,17 +17,17 @@ export default {
     ogType: 'website',
     ogImage: '/maskable_512.png',
     // ogUrl: false,
-    ogTitle: 'EnBizCard - An Open-Source Digital Business Card Generator',
+    ogTitle: 'SlashCard - Your Personalized Business Identity Container',
     ogDescription:
-      'EnBizCard helps you create beautiful, responsive HTML-based digital business cards that can be hosted on your website.',
-    ogSiteName: 'EnBizCard - An Open-Source Digital Business Card Generator',
+      'SlashCard provide a smart information card that connects with all the personal business information with just ONE TAP.',
+    ogSiteName: 'SlashCard - Your Personalized Business Identity Container',
     theme_color: '#111827',
-    author: 'Vishnu Raghav',
+    author: 'Rony Chau',
     lang: 'en',
-    name: 'EnBizCard - An Open-Source Digital Business Card Generator',
+    name: 'SlashCard - Your Personalized Business Identity Container',
   },
   head: {
-    title: 'EnBizCard - An Open-Source Digital Business Card Generator',
+    title: 'SlashCard - Your Personalized Business Identity Container',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -35,7 +35,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'EnBizCard helps you create beautiful, responsive HTML-based digital business cards that can be hosted on your website.',
+          'SlashCard provide a smart information card that connects with all the personal business information with just ONE TAP.',
       },
       {
         hid: 'msapplication-TileColor',
@@ -80,8 +80,8 @@ export default {
     script: [{ src: '/qrcode.min.js' }],
   },
   manifest: {
-    name: 'EnBizCard - An Open-Source Digital Business Card Generator',
-    short_name: 'EnBizCard',
+    name: 'SlashCard - Your Personalized Business Identity Container',
+    short_name: 'SlashCard',
     start_url: '/',
     display: 'standalone',
     theme_color: '#111827',
