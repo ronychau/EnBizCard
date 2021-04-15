@@ -71,8 +71,8 @@
         Redefine Your Way of Contact!
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        SlashCard helps you connect all personal business ;information
-       with just ONE TAP.
+        SlashCard helps you connect all personal business information
+        with just ONE TAP.
       </p>
       <ul class="mt-4 text-gray-400">
         <li>-&ensp;No sign-up required</li>
