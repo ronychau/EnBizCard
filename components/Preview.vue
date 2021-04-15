@@ -313,10 +313,10 @@
             Created with
             <a
               class="text"
-              href="https://enbizcard.vercel.app/"
+              href="https://slashcard.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
-              >EnBizCard</a
+              >SlashCard</a
             >
           </footer>
         </body>
