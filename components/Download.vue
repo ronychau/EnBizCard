@@ -21,7 +21,7 @@
         "
         :class="
           downloadChecked
-            ? 'bg-green-600 cursor-pointer text-white focus:bg-green-500 hover:bg-green-500'
+            ? 'bg-yellow-400 cursor-pointer text-white focus:bg-yellow-300 hover:bg-yellow-300'
             : 'cursor-not-allowed text-black'
         "
       >
@@ -31,7 +31,7 @@
         Extract the downloaded ZIP file and follow the
         <NuxtLink
           to="/hosting-guide"
-          class="cursor-pointer underline font-extrabold text-green-600 hover:text-green-500 focus:text-green-500 transition-colors duration-200"
+          class="cursor-pointer underline font-extrabold text-yellow-400 hover:text-yellow-300 focus:text-yellow-300 transition-colors duration-200"
           >Hosting&nbsp;Guide</NuxtLink
         >
         to get your digital business card online.
@@ -40,7 +40,7 @@
         consider donating.
         <br /><a
           class="inline-block font-extrabold tracking-wide leading-none flex-shrink-0 p-3 text-white bg-gray-700 rounded hover:bg-gray-600 focus:bg-gray-600 transition-colors duration-200 mt-4"
-          href="https://www.vishnuraghav.com/donate/"
+          href="https://paypal.me/ronychau/"
           rel="noreferrer"
           target="_blank"
           >Donate</a
