@@ -68,12 +68,11 @@
       <h1
         class="text-3xl md:text-5xl font-extrabold mt-24 md:mt-48 md:leading-tight"
       >
-        Your Personalized Business Identity Container
+        Your Personalized Business Identity
         "Redefine Your Way of Contact"
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        SlashCard helps you connect all personal business information
-        with just ONE TAP.
+        SlashCard provide a smart information card that connects with all the personal business information with just ONE TAP.
       </p>
       <ul class="mt-4 text-gray-400">
         <li>-&ensp;No sign-up required</li>
