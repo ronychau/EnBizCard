@@ -5,13 +5,13 @@
         <NuxtLink to="/">
           <div
             class="logo w-24"
-            v-html="require(`~/assets/icons/logo.svg?include`)"
-            title="EnBizCard - An Open-Source Digital Business Card Generator"
+            v-html="require(`~/assets/icons/sclogo.svg?include`)"
+            title="SlashCard - Your Personalized Business Identity Container"
           ></div
         ></NuxtLink>
         <a
           class="font-extrabold tracking-wide leading-none flex-shrink-0 p-3 border-2 text-white border-gray-700 rounded hover:bg-gray-700 focus:bg-gray-700 transition-colors duration-200"
-          href="https://www.vishnuraghav.com/donate"
+          href="https://paypal.me/ronychau"
           target="_blank"
           >Donate</a
         >
@@ -30,7 +30,7 @@
         <p class="mt-16 border px-4 py-3 rounded border-gray-700">
           Your digital business card files are in the folder you just extracted
           from your downloaded ZIP file. This folder will be referred to as the
-          "<span class="font-extrabold">bizcard folder</span>" throughout this
+          "<span class="font-extrabold">card folder</span>" throughout this
           guide.
         </p>
 
@@ -80,7 +80,7 @@
               <NuxtLink
                 to="/"
                 class="underline font-extrabold text-green-600 hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-                >EnBizCard</NuxtLink
+                >SlashCard</NuxtLink
               >.
             </li>
             <li>
@@ -89,7 +89,7 @@
               files and share the link to this
               <a
                 class="underline font-extrabold text-green-600 hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-                href="https://enbizcard.vercel.app/hosting-guide"
+                href="https://slashcard.vercel.app/hosting-guide"
                 target="_blank"
                 >Hosting Guide</a
               >.
@@ -105,7 +105,7 @@
               Create a folder called "vcard" ( or whatever you like ) in the
               project's static folder.
             </li>
-            <li>Copy the bizcard folder inside the "vcard" folder.</li>
+            <li>Copy the card folder inside the "vcard" folder.</li>
             <li>Commit changes and deploy.</li>
             <li>
               Now the business card should be online at the address
@@ -170,7 +170,7 @@
             How do I update my business card details?
           </h3>
           <p class="mt-6">
-            EnBizCard does not store any data online for you to retrieve it for
+            SlashCard does not store any data online for you to retrieve it for
             editing. So, every card has to be manually created from scratch.
           </p>
           <ul class="px-6 mt-6 list-outside list-disc">
@@ -203,7 +203,7 @@
               <NuxtLink
                 to="/"
                 class="underline font-extrabold text-green-600 hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-                >EnBizCard</NuxtLink
+                >SlashCard</NuxtLink
               >
               and generate a digital business card.
             </li>
@@ -226,7 +226,7 @@
         Help me improve this guide on
         <a
           class="underline text-green-600 font-extrabold hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-          href="https://github.com/vishnuraghavb/EnBizCard"
+          href="https://github.com/ronychau/SlashCard"
           target="_blank"
           rel="noopener noreferrer"
           >GitHub</a
