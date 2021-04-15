@@ -47,7 +47,7 @@ export default {
         hid: 'msapplication-TileImage',
         name: 'msapplication-TileImage',
         property: 'msapplication-TileImage',
-        content: '/mstiles-150x150.png',
+        content: '/mstile-150x150.png',
       },
     ],
     link: [
