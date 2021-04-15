@@ -17,7 +17,7 @@
       >
         <div
           class="logo w-16 m-4"
-          v-html="require(`~/assets/icons/logo.svg?include`)"
+          v-html="require(`~/assets/icons/sclogo.svg?include`)"
         ></div>
         <button
           class="p-3 mx-4 font-extrabold rounded tracking-wide focus:outline-none select-none"
