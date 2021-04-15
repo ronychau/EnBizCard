@@ -54,7 +54,7 @@
       <div class="flex items-start justify-between pt-8">
         <div
           class="logo w-24"
-          v-html="require(`~/assets/icons/logo.svg?include`)"
+          v-html="require(`~/assets/icons/sclogo.svg?include`)"
           title="SlashCard - Your Personalized Business Identity Container"
         ></div>
         <a
@@ -590,7 +590,7 @@ export default {
           openPalette: false,
         },
         buttonBg: {
-          color: `#D39D5D`,
+          color: `#374151`,
           openPalette: false,
         },
         cardBg: {
