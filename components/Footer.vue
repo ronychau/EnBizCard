@@ -3,7 +3,7 @@
     <div class="flex flex-col justify-center items-center">
       <div
         class="logo w-12"
-        v-html="require(`~/assets/icons/logo.svg?include`)"
+        v-html="require(`~/assets/icons/sclogo.svg?include`)"
       ></div>
       <!-- <p class="font-extrabold leading-tight">
         Digital&nbsp;Business&nbsp;Card
@@ -15,7 +15,7 @@
     <p class="mt-6 text-center text-gray-400">
       Made with by
       <a
-        class="underline text-green-600 font-extrabold hover:text-green-500 focus:text-green-500 transition-colors duration-200"
+        class="underline text-yellow-400 font-extrabold hover:text-yellow-300 focus:text-yellow-300 transition-colors duration-200"
         href="https://slashcard.online/demo"
         target="_blank"
         rel="noopener noreferrer"
@@ -24,7 +24,7 @@
     </p>
     <p class="mt-1 mb-8 text-center text-xs text-gray-400">
       <a
-        class="underline text-green-600 font-extrabold hover:text-green-500 focus:text-green-500 transition-colors duration-200"
+        class="underline text-yellow-400 font-extrabold hover:text-yellow-300 focus:text-yellow-300 transition-colors duration-200"
         href="https://github.com/ronychau/SlashCard"
         target="_blank"
         rel="noopener noreferrer"
