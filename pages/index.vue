@@ -71,7 +71,7 @@
         Redefine Your Way of Contact!
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        SlashCard helps you connect all personal business information HTML&#8209;
+        SlashCard helps you connect all personal business ;information
        with just ONE TAP.
       </p>
       <ul class="mt-4 text-gray-400">
@@ -590,7 +590,7 @@ export default {
           openPalette: false,
         },
         buttonBg: {
-          color: `#374151`,
+          color: `#D39D5D`,
           openPalette: false,
         },
         cardBg: {
@@ -616,14 +616,14 @@ export default {
           {
             name: 'call',
             href: 'tel:',
-            placeholder: '+91 XXXXX XXXXX',
+            placeholder: '+852 XXXX XXXX',
             value: null,
             label: 'Phone number',
           },
           {
             name: 'call',
             href: 'tel:',
-            placeholder: '+91 XXXXX XXXXX',
+            placeholder: '+852 XXXX XXXX',
             value: null,
             label: 'Phone number',
           },
