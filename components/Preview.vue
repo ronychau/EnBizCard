@@ -17,10 +17,10 @@
           <meta v-if="!PreviewMode" name="robots" content="noindex, nofollow" />
           <meta
             name="author"
-            content="EnBizCard - An Open-Source Digital Business Card Generator"
+            content="SlashCard - Your Personalized Business Identity Container"
           />
-          <meta name="url" content="https://enbizcard.vercel.app/" />
-          <meta name="designer" content="Vishnu Raghav" />
+          <meta name="url" content="https://slashcard.vercel.app/" />
+          <meta name="designer" content="Rony Chau" />
           <meta
             property="og:title"
             :content="`${genInfo.name}'s Digital Business Card`"
