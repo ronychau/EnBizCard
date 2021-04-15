@@ -59,7 +59,7 @@
         ></div>
         <a
           class="font-extrabold tracking-wide leading-none flex-shrink-0 p-3 border-2 text-white border-gray-700 rounded hover:bg-gray-700 focus:bg-gray-700 transition-colors duration-200"
-          href="https://www.vishnuraghav.com/donate"
+          href="https://paypal.me/ronychau"
           target="_blank"
           rel="noreferrer"
           >Donate</a
@@ -68,7 +68,8 @@
       <h1
         class="text-3xl md:text-5xl font-extrabold mt-24 md:mt-48 md:leading-tight"
       >
-        Redefine Your Way of Contact!
+        Your Personalized Business Identity Container
+        "Redefine Your Way of Contact"
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
         SlashCard helps you connect all personal business information
