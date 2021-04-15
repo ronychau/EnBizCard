@@ -13,19 +13,19 @@
       <p class="font-extrabold text-xl mt-2 leading-tight">EnBizCard</p>
     </div>
     <p class="mt-6 text-center text-gray-400">
-      Made with ❤️ by
+      Made with by
       <a
         class="underline text-green-600 font-extrabold hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-        href="https://www.vishnuraghav.com/"
+        href="https://slashcard.online/demo"
         target="_blank"
         rel="noopener noreferrer"
-        >Vishnu&nbsp;Raghav</a
+        >Rony&nbsp;Chau</a
       >
     </p>
     <p class="mt-1 mb-8 text-center text-xs text-gray-400">
       <a
         class="underline text-green-600 font-extrabold hover:text-green-500 focus:text-green-500 transition-colors duration-200"
-        href="https://github.com/vishnuraghavb/EnBizCard"
+        href="https://github.com/ronychau/SlashCard"
         target="_blank"
         rel="noopener noreferrer"
         >View&nbsp;Source</a
