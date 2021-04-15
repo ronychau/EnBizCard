@@ -68,11 +68,11 @@
       <h1
         class="text-3xl md:text-5xl font-extrabold mt-24 md:mt-48 md:leading-tight"
       >
-        Why Pay When Your Website Can Host Your Digital Business Cards for Free!
+        Redefine Your Way of Contact!
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        EnBizCard helps you create beautiful, responsive HTML&#8209;based
-        digital business cards that can be hosted on your website.
+        SlashCard helps you connect all personal business information HTML&#8209;
+       with just ONE TAP.
       </p>
       <ul class="mt-4 text-gray-400">
         <li>-&ensp;No sign-up required</li>
