@@ -59,26 +59,4 @@ You can,
 - Logo and some icons by [Vishnu Raghav](https://www.vishnuraghav.com/)
 - [QRCode-SVG](https://github.com/papnkukn/qrcode-svg)
 
-## License
 
-```
-EnBizCard - An Open-Source Digital Business Card Generator
-Copyright (C) 2021  Vishnu Raghav B
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-```
-
-## Support me
-
-<a href="https://www.vishnuraghav.com/donate/"><img alt="Donate to Vishnu Raghav" src="assets/images/donate.svg" width="207"></a>
